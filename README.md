@@ -180,3 +180,30 @@ LinkedIn://  \href{https://www.linkedin.com/in/rohit-nalat-a061321b0/}{\bf rohit
 % College of Engineering \\
  \\
 \location{ CGPA 8.01/10 \\\ }
+
+
+
+
+
+
+
+
+
+\section{Projects}
+\runsubsection{\href{https://github.com/rohitnalat/Travel-Project}{Travel App}}
+
+
+\begin{tightemize}
+\item Designed and developed a responsive and visually appealing landing page for a travel app using \textbf{Next.js, TailwindCSS, and TypeScript}.
+\item Integrated modern web development practices such as component-based architecture and responsive design to ensure a great user experience across devices. Focused on improving load speed, \textbf{UI/UX design}, and accessibility.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{\href{https://github.com/rohitnalat/IPL-Dashboard-Project}{IPL Dashboard}}
+
+\begin{tightemize}
+\item Developed a comprehensive IPL (Indian Premier League) dashboard using \textbf{Spring Boot, Spring Batch, ReactJS, and AWS Elastic Beanstalk} to provide dynamic insights into match statistics
+\item \textbf{Utilized Java Persistence API (JPA) and JPQL} for efficient data management and querying, with data stored in an HSQL database
+\end{tightemize}
+\sectionsep
+
