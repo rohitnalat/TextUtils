@@ -154,3 +154,15 @@ SOQL \textbullet{}MySQL \textbullet{}Data Loader
 \item Data Structures and Algorithms
 \end{tightemize}
 
+
+
+
+
+
+\section{Links}
+Github:// \href{https://github.com/rohitnalat}{\bf rohitnalat} \\
+LinkedIn://  \href{https://www.linkedin.com/in/rohit-nalat-a061321b0/}{\bf rohitnalat}
+\sectionsep
+
+\end{minipage}
+\end{document}  \documentclass[]{article}
