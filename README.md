@@ -117,3 +117,29 @@ Log analysis & error reporting
 Support process documentation & knowledge base creation
 SLA adherence & reporting
 
+
+
+
+
+
+
+\section{Skills }
+\subsection{ \\ Development Tools}
+\location{}
+Git \textbullet{}Sublime Text \textbullet{}JIRA \textbullet{}Eclipse IDE \\  \textbullet{} C/C++ \\
+\subsection{ \\\ Salesforce Platform}
+\location{}
+Salesforce Lightning  \textbullet{} Visualforce   \textbullet{} Apex  \textbullet{} Lightning Experience\\
+\location{}
+\subsection{ \\\ Development \& Scripting }
+Java \textbullet{}JavaScript \textbullet{} HTML5 \\ \textbullet{} CSS3 \textbullet{}GIT \textbullet{}RESTful Web Services\\
+\subsection{ \\\ Data Management}
+SOQL \textbullet{}MySQL \textbullet{}Data Loader  
+
+\sectionsep
+
+\subsection{ \\\ Web-Technologies/Frameworks}
+\textbullet{} React \textbullet{} Bootstrap\\
+
+\sectionsep
+
