@@ -166,3 +166,17 @@ LinkedIn://  \href{https://www.linkedin.com/in/rohit-nalat-a061321b0/}{\bf rohit
 
 \end{minipage}
 \end{document}  \documentclass[]{article}
+
+
+
+
+
+\section{Education}
+
+\subsection{Pune Institute of }
+\subsection{Computer Technology}
+\descript{Bachelors of Engineering (Electronics and Telecommunication)}
+\location{2018-2022 | Pune, Maharashtra}
+% College of Engineering \\
+ \\
+\location{ CGPA 8.01/10 \\\ }
