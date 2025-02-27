@@ -207,3 +207,11 @@ LinkedIn://  \href{https://www.linkedin.com/in/rohit-nalat-a061321b0/}{\bf rohit
 \end{tightemize}
 \sectionsep
 
+
+
+
+
+Conducted rigorous testing of Salesforce applications, ensuring functionality, security, and performance met business standards.
+Designed and executed test cases for Salesforce Sales Cloud and Service Cloud customizations.
+Collaborated with developers and business analysts to identify and resolve defects, improving software reliability.
+Performed API testing for seamless integration between Salesforce and third-party banking systems.
