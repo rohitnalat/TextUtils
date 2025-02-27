@@ -143,3 +143,14 @@ SOQL \textbullet{}MySQL \textbullet{}Data Loader
 
 \sectionsep
 
+
+
+
+
+\section{Coursework}
+\subsection{Undergraduate \\ }
+\begin{tightemize}
+\item Object Oriented Programming
+\item Data Structures and Algorithms
+\end{tightemize}
+
