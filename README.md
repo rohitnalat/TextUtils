@@ -68,3 +68,52 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+Persistent, IDFC First Bank Limited (Scan-Based Disbursal)Support Engineer (August 2022 – Present) | Pune, Maharashtra
+Provided technical support and troubleshooting for Salesforce applications, ensuring minimal downtime and optimal system performance.
+Assisted end-users with Salesforce-related queries, issue resolution, and workflow automation to enhance efficiency.
+Monitored system integrations between Salesforce and third-party banking systems, addressing data flow issues and ensuring seamless connectivity.
+Conducted root cause analysis for application errors, implemented fixes, and improved system reliability.
+Collaborated with developers and business analysts to understand customer needs and provide timely resolutions.
+Created and maintained documentation for troubleshooting guides, FAQs, and support processes to streamline issue resolution.
+Conducted user training sessions to improve adoption and maximize the benefits of Salesforce tools.
+Participated in sprint reviews and feedback loops to improve service quality and response times.
+Key Achievements:
+Reduced average issue resolution time by 30% through process optimization and proactive monitoring.
+Improved system performance, leading to a 20% decrease in response times for end-users.
+Recognized for consistent service excellence and timely resolution of customer issues.
+
+
+
+
+
+Skills
+Technical Support & Troubleshooting
+Application support & issue resolution
+Root cause analysis & debugging
+Performance monitoring & optimization
+Incident management & ticketing
+Salesforce & CRM Support
+Salesforce Administration (Sales Cloud, Service Cloud)
+Apex, Visualforce, Lightning Web Components
+SOQL & Data Loader
+User training & adoption support
+System Integration & Maintenance
+API troubleshooting & integration (RESTful Web Services)
+Third-party banking system integrations
+Data management & migration (MySQL, SOQL)
+Development & Scripting
+Java, JavaScript, C++
+HTML5, CSS3, React
+Git, JIRA, Eclipse IDE
+Monitoring & Documentation
+Log analysis & error reporting
+Support process documentation & knowledge base creation
+SLA adherence & reporting
+
