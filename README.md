@@ -215,3 +215,33 @@ Conducted rigorous testing of Salesforce applications, ensuring functionality, s
 Designed and executed test cases for Salesforce Sales Cloud and Service Cloud customizations.
 Collaborated with developers and business analysts to identify and resolve defects, improving software reliability.
 Performed API testing for seamless integration between Salesforce and third-party banking systems.
+
+
+
+
+
+To,
+Vidal Health Insurance TPA Services,
+Trion IT Park, 6th Floor, Pune-Ahmednagar Road,Wadgaon Sheri, Pune, Maharashtra.
+411014.
+
+Subject: Clarification Regarding Delayed Submission of My Insurance Application.
+
+Dear Sir/Madam,
+
+I am writing to explain the delay in submitting my insurance application. My name is Vishal Morey, and I understand that my application was received after the specified deadline.
+
+The delay occurred due to a sudden family emergency that required my immediate attention. This unexpected situation prevented me from completing the application process on time. I apologize for any inconvenience caused and would like to assure you of my sincere interest in proceeding with the insurance coverage.
+
+I am ready to provide any further information to verify my situation. Please feel free to contact me at 9356042856 or via email at vishal.s.morey@impetus.com
+
+Thank you for your understanding and consideration.
+
+Yours sincerely,
+Vishal Morey
+
+
+
+
+
+
